@@ -1,7 +1,7 @@
 ### 앱 열기
 ```
 $ yarn install
-$ yarn build
+$ yarn start
 ```
 
 ### 사용 API
