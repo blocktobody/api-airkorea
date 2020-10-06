@@ -2,6 +2,7 @@
 ```
 $ yarn install
 $ yarn start
+$ open -n -a "Google Chrome" --args --user-data-dir=/tmp/temp_chrome_user_data_dir http://localhost:3000/ --disable-web-security
 ```
 
 ### 사용 API
